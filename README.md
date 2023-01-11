@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi There! I'm Mariano Joel Schachtel👋<br>I am a Full Stack Developer in training, personal and professional computer technician. I love challenges and technology, that's why I decided to redirect my professional profile. I have knowledge in HTML | CSS | javascript | react | git | networks | and eager to continue acquiring knowledge and progress in the IT world.
+Hi There! I'm Joel Schachtel👋<br>I am a Full Stack Developer in training, personal and professional computer technician. I love challenges and technology, that's why I decided to redirect my professional profile. I have knowledge in HTML | CSS | javascript | react | git | networks | and eager to continue acquiring knowledge and progress in the IT world.
 
 
 ## 🌐 Socials:

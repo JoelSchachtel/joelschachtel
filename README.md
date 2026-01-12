@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi There! I'm Joel Schachtel👋<br>I am a Full Stack Developer in training, personal and professional computer technician. I love challenges and technology, that's why I decided to redirect my professional profile. I have knowledge in HTML | CSS | javascript | react | git | networks | and eager to continue acquiring knowledge and progress in the IT world.
+I’m a Full Stack Developer in training with a background as a personal and professional computer technician. I’m passionate about technology and problem-solving, which led me to redirect my professional path toward software development.
+
+I have hands-on experience with HTML, CSS, JavaScript, React, Git, and networking, and I’m highly motivated to keep learning, growing, and taking on new challenges in the IT world. I enjoy building solutions, improving my skills every day, and staying up to date with modern technologies.
 
 
 ## 🌐 Socials:
